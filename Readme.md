@@ -20,10 +20,6 @@ Track people who you lend Money to !
 ![](./screenshots/screenshot.gif)
 
 
-### Links
-
-- Live Site URL: [visite site]()
-
 
 ### Built with
 
